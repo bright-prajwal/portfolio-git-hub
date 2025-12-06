@@ -23,7 +23,7 @@ I enjoy building scalable applications, dashboards, automation tools, and machin
 
 ### **Programming Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cs,javascript,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,python,cs,javascript" />
 </p>
 
 ### **Frameworks & Libraries**
@@ -91,7 +91,3 @@ I enjoy building scalable applications, dashboards, automation tools, and machin
 
 ## 🧠 Quote of the Day  
 > *"Code is like humor. When you have to explain it, it’s bad."*
-
----
-
-⭐ **If you like my work, feel free to star my repositories!**
