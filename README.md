@@ -11,10 +11,10 @@
 I am a passionate **Full Stack Developer** with strong expertise in **Java, .NET, Python, and modern Web Technologies**.  
 I enjoy building scalable applications, dashboards, automation tools, and machine learning models.
 
-- 🌱 Currently learning **Advanced Spring Boot, React.js, Machine Learning**
-- 💼 Looking for opportunities as **Full Stack Developer / Java Developer / .NET Developer**
+- 🌱 Currently learning **Advanced Spring Boot, Node.js, React.js, Machine Learning**
+- 💼 Looking for opportunities as **Full Stack Developer / MERN Stack/ Java Developer / .NET Developer**
 - 💬 Ask me about **Java, Spring Boot, .NET, Python, Django, React, SQL**
-- 📫 Reach me at **prajwalhon@email.com**
+- 📫 Reach me at **honprajwal9@email.com**
 - ⚡ Fun fact: *I break things to learn how they work.*
 
 ---
@@ -82,9 +82,9 @@ I enjoy building scalable applications, dashboards, automation tools, and machin
 
 ## 🤝 Connect With Me  
 <p>
-<a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="mailto:prajwalhon@email.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-<a href="https://github.com/prajwalhon"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
+<a href="https://linkedin.com/in/prajwalhon" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+<a href="mailto:honprajwal9@email.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+<a href="https://github.com/bright-prajwal"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
 </p>
 
 ---
