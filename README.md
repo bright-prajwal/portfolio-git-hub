@@ -1,21 +1,13 @@
-<h1 align="center">Hi 👋, I'm Prajwal Hon</h1>
-<h3 align="center">Full Stack Developer | Java & .NET Developer | Python & ML Enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prajwalhon&label=Profile%20Views&color=blue&style=plastic" alt="prajwalhon" />
-</p>
-
----
 
 ## 🚀 About Me
-I am a passionate **Full Stack Developer** with strong expertise in **Java, .NET, Python, and modern Web Technologies**.  
-I enjoy building scalable applications, dashboards, automation tools, and machine learning models.
+I am a passionate **Full Stack Developer** with expertise in **MERN Stack, Java, .NET, Python, and modern Web Technologies**.  
+I build scalable applications, REST APIs, dashboards, automation tools, and machine learning-driven systems.
 
-- 🌱 Currently learning **Advanced Spring Boot, Node.js, React.js, Machine Learning**
-- 💼 Looking for opportunities as **Full Stack Developer / MERN Stack/ Java Developer / .NET Developer**
-- 💬 Ask me about **Java, Spring Boot, .NET, Python, Django, React, SQL**
+- 🌱 Currently learning **Advanced MERN, Docker, React Native, Microservices**
+- 💼 Seeking roles as **Full Stack Developer / MERN Developer / Java Developer / .NET Developer**
+- 💬 Ask me about **MERN, Java, Spring Boot, Node.js, .NET, Python, Django, React**
 - 📫 Reach me at **honprajwal9@email.com**
-- ⚡ Fun fact: *I break things to learn how they work.*
+- ⚡ Fun fact: *I turn ideas into working products.*
 
 ---
 
@@ -23,49 +15,24 @@ I enjoy building scalable applications, dashboards, automation tools, and machin
 
 ### **Programming Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cs,javascript" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,python,cs,cpp" />
 </p>
 
 ### **Frameworks & Libraries**
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,react,dotnet,django,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,spring,dotnet,django,bootstrap" />
 </p>
 
 ### **Databases & Cloud**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite,azure" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,firebase,azure" />
 </p>
 
 ### **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode,visualstudio,docker" />
 </p>
 
----
-
-## 📂 Featured Projects
-
-### 🔹 **1. Water Potability Prediction System**
-- **Tech:** Python, R, Power BI  
-- Built an ML model to predict water safety with **99% accuracy (XGBoost)** + integrated Power BI dashboards.
-
-### 🔹 **2. Smart Contact Manager (Spring Boot)**
-- **Tech:** Java, Spring Boot, MySQL, HTML/CSS  
-- Contact management with authentication, CRUD, role-based access, and cloud storage.
-
-### 🔹 **3. Expense Tracker (Django)**
-- **Tech:** Django, SQLite  
-- Personal finance app with analytics, daily expense tracking, and admin interface.
-
-### 🔹 **4. NASA APOD Explorer (React.js)**
-- **Tech:** React, Axios  
-- Fetches NASA Astronomy Picture of the Day with date-wise search.
-
-### 🔹 **5. OYO Clone Website**
-- **Tech:** HTML, CSS, JavaScript  
-- Responsive booking UI with filters and search.
-
----
 
 ## 📊 GitHub Stats
 
