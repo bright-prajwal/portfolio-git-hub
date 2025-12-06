@@ -1,4 +1,11 @@
+<h1 align="center">Hi 👋, I'm Prajwal Hon</h1>
+<h3 align="center">Full Stack Developer | Java & .NET Developer | Python & ML Enthusiast</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prajwalhon&label=Profile%20Views&color=blue&style=plastic" alt="prajwalhon" />
+</p>
+
+---
 ## 🚀 About Me
 I am a passionate **Full Stack Developer** with expertise in **MERN Stack, Java, .NET, Python, and modern Web Technologies**.  
 I build scalable applications, REST APIs, dashboards, automation tools, and machine learning-driven systems.
