@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Prajwal Hon</h1>
-<h3 align="center">Full Stack Developer | Java & .NET Developer | Python & ML Enthusiast</h3>
+<h3 align="center">Full Stack Developer | MERN | Java | .NET | Python & ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prajwalhon&label=Profile%20Views&color=blue&style=plastic" alt="prajwalhon" />
 </p>
+
 
 ---
 ## 🚀 About Me
