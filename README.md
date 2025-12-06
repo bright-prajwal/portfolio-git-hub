@@ -41,20 +41,6 @@ I build scalable applications, REST APIs, dashboards, automation tools, and mach
   <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode,visualstudio,docker" />
 </p>
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwalhon&show_icons=true&theme=tokyonight" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalhon&layout=compact&theme=tokyonight" height="170px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalhon&theme=tokyonight" />
-</p>
-
----
-
 ## 🤝 Connect With Me  
 <p>
 <a href="https://linkedin.com/in/prajwalhon" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
